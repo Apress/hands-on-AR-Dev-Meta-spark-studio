@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Hands-On Augmented Reality Development with Meta Spark Studio*](https://link.springer.com/book/10.1007/978-1-4842-9467-3) by %author% (Apress, %pubyear%).
+This repository accompanies [*Hands-On Augmented Reality Development with Meta Spark Studio*](https://link.springer.com/book/10.1007/978-1-4842-9467-3) by Jaleh Afshar (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](978-1-4842-9466-6.jpg)
